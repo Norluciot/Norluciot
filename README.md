@@ -5,8 +5,9 @@
 
 Welcome to my GitHub profile! I'm a CS students with a keen interest in technology and innovation. I love solving complex problems and working on exciting projects.
 
-- **Name:** FANOMEZANTSOA Adrien Norlciot
-- **Role:** Full Stack Developer
+## 🌟 About Me : 
+- **Name:** FANOMEZANTSOA Adrien Norluciot
+- **Role:** Cs Student
 - **Passions:** Coding, Cybersecurity, Networking, AI
 
 ## 🛠️ Technical Skills
@@ -26,9 +27,9 @@ Welcome to my GitHub profile! I'm a CS students with a keen interest in technolo
 
 
 ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Adrien Norluciot FANOMEZANTSOA)
+
 ![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:norluciot.adrien@gmail.com)
 
-[visitors](https://visitor-badge.glitch.me/badge?page_id=Norluciot.Norluciot)
 
 [Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
