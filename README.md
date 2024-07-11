@@ -29,7 +29,6 @@ Welcome to my GitHub profile! I'm a CS students with a keen interest in technolo
 ![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:norluciot.adrien@gmail.com)
 
 
-[Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 
 
