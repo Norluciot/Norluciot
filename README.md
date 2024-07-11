@@ -3,9 +3,6 @@
 ![Serious Hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmE1c252eDBhbXJ2aW0yZ2xqbm5zNTdua3loMGcwMnViYTljdzc3eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGGDNsLvqsBOhuU0/giphy.gif)
 
 
-
-<!--
-**Norluciot/Norluciot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Welcome to my GitHub profile! I'm a CS students with a keen interest in technology and innovation. I love solving complex problems and working on exciting projects.
 
 - **Name:** FANOMEZANTSOA Adrien Norlciot
