@@ -1,6 +1,8 @@
 # Hi, I'm Norluciot! 👋
 
-![Banner](https://media.giphy.com/media/QHE5gWI0QjqF2/giphy.gif)
+![Serious Hello](https://media.giphy.com/media/QandkDXAj4k0k2GzPQ/giphy.gif)
+
+
 
 <!--
 **Norluciot/Norluciot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
