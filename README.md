@@ -1,14 +1,12 @@
-# Hi, I'm Norluciot! 👋
+# Hi, I'm FANOMEZANTSOA Adrien Norluciot Norluciot! 👋
 
-![Serious Hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmE1c252eDBhbXJ2aW0yZ2xqbm5zNTdua3loMGcwMnViYTljdzc3eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGGDNsLvqsBOhuU0/giphy.gif)
+<div align="center">
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBzODhxcWRwam1yczluN2FiaWI0ZHF2ZHd0eWVtOGUzNWp2bGZyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OYwYE7UtTTqLBfpBS8/giphy.gif" alt="Serious Hello" />
+</div>
 
 
 Welcome to my GitHub profile! I'm a CS students with a keen interest in technology and innovation. I love solving complex problems and working on exciting projects.
 
-## 🌟 About Me : 
-- **Name:** FANOMEZANTSOA Adrien Norluciot
-- **Role:** Cs Student
-- **Passions:** Coding, Cybersecurity, Networking, AI
 
 ## 🛠️ Technical Skills
 
