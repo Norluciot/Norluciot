@@ -1,6 +1,6 @@
 # Hi, I'm Norluciot! 👋
 
-![Serious Hello](https://media.giphy.com/media/QandkDXAj4k0k2GzPQ/giphy.gif)
+![Serious Hello](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmE1c252eDBhbXJ2aW0yZ2xqbm5zNTdua3loMGcwMnViYTljdzc3eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUPGGDNsLvqsBOhuU0/giphy.gif)
 
 
 
