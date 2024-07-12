@@ -1,7 +1,7 @@
 # Hi, I'm FANOMEZANTSOA Adrien Norluciot Norluciot! 👋
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnBzODhxcWRwam1yczluN2FiaWI0ZHF2ZHd0eWVtOGUzNWp2bGZyaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/OYwYE7UtTTqLBfpBS8/giphy.gif" alt="Serious Hello" />
+  <img src="https://media4.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif?cid=6c09b952eb6yil3ct3kl6m2jjedj0mv6e1h7uu17wglnvwlq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Serious Hello" />
 </div>
 
 
