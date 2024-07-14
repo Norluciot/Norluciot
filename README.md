@@ -24,9 +24,7 @@ Welcome to my GitHub profile! I'm a CS students with a keen interest in technolo
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 
 
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Adrien Norluciot FANOMEZANTSOA)
 
-![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:norluciot.adrien@gmail.com)
 
 
 
