@@ -1,4 +1,4 @@
-# Hi, I'm FANOMEZANTSOA Adrien Norluciot Norluciot! 👋
+# Hi, I'm FANOMEZANTSOA Adrien Norluciot! 👋
 
 <div align="center">
   <img src="https://media4.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif?cid=6c09b952eb6yil3ct3kl6m2jjedj0mv6e1h7uu17wglnvwlq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Serious Hello" />
