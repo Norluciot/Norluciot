@@ -1,6 +1,9 @@
-![header](https://raw.githubusercontent.com/Norluciot/Norluciot/main/header.png)
+<div align="center">
 
-### Hi stranger! 👋
+# Hi, I'm FANOMEZANTSOA Adrien Norluciot! 👋
+
+  <img src="https://media4.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif?cid=6c09b952eb6yil3ct3kl6m2jjedj0mv6e1h7uu17wglnvwlq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Serious Hello" />
+
 
 
 Profile views: ![Profile views](https://komarev.com/ghpvc/?username=Norluciot&color=blue)
@@ -22,6 +25,8 @@ Profile views: ![Profile views](https://komarev.com/ghpvc/?username=Norluciot&co
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
+
+
 ### ⚡ GitHub Stats
 ![Norluciot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Norluciot&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Norluciot&layout=compact&theme=radical)
@@ -29,4 +34,5 @@ Profile views: ![Profile views](https://komarev.com/ghpvc/?username=Norluciot&co
 ### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Norluciot&theme=radical)
 
+</div>
 
