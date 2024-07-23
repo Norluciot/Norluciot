@@ -28,13 +28,12 @@ Profile views: ![Profile views](https://komarev.com/ghpvc/?username=Norluciot&co
 
 
 ### ⚡ GitHub Stats
+![Norluciot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Norluciot&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Norluciot&layout=compact&theme=radical)
 
 ### 🔥 Streak Stats
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Norluciot&theme=radical)
 
-### 📈 Contribution Graph
-![Contribution Graph](https://raw.githubusercontent.com/Norluciot/Norluciot/main/contribution-graph.png)
 
 </div>
 
