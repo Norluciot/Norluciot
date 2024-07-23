@@ -1,32 +1,32 @@
-# Hi, I'm FANOMEZANTSOA Adrien Norluciot! 👋
+![header](https://raw.githubusercontent.com/Norluciot/Norluciot/main/header.png)
 
-<div align="center">
-  <img src="https://media4.giphy.com/media/26u4nJPf0JtQPdStq/giphy.gif?cid=6c09b952eb6yil3ct3kl6m2jjedj0mv6e1h7uu17wglnvwlq&ep=v1_internal_gif_by_id&rid=giphy.gif&ct=g" alt="Serious Hello" />
-</div>
+### Hi stranger! 👋
 
 
-Welcome to my GitHub profile! I'm a CS students with a keen interest in technology and innovation. I love solving complex problems and working on exciting projects.
+Profile views: ![Profile views](https://komarev.com/ghpvc/?username=Norluciot&color=blue)
 
+### 🛠 Technologies & Tools
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=HTML5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=CSS3)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?&logo=React)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
+![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
+![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
+![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind--CSS-000?&logo=Tailwind-CSS)
+![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
-## 🛠️ Technical Skills
+### ⚡ GitHub Stats
+![Norluciot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Norluciot&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Norluciot&layout=compact&theme=radical)
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-
-
-
-
-
-
+### 🔥 Streak Stats
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Norluciot&theme=radical)
 
 
