@@ -16,13 +16,10 @@ Profile views: ![Profile views](https://komarev.com/ghpvc/?username=Norluciot&co
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=Next.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)
-![Vite](https://img.shields.io/badge/-Vite-000?&logo=Vite)
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=Laravel)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind--CSS-000?&logo=Tailwind-CSS)
-![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?&logo=Bootstrap)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)
 
 
