@@ -46,7 +46,7 @@ Profile views: ![Profile views](https://komarev.com/ghpvc/?username=Norluciot&co
 ### 💡 About Me
 
 - 💻 Passionate about full-stack development and open-source projects.
-- 🚀 Learning and working with modern web technologies like TypeScript and Nest.js.
+- 🚀 Learning and working with modern web technologies like TypeScript, React.js, Node.js and Nest.js.
 - 🌱 Always improving and staying up-to-date with the latest trends in the tech world.
 
 </div>
