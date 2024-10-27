@@ -10,7 +10,7 @@
 
 ---
 
-### 🛠 Technologies & Tools
+### 🛠 Technologies & Toolse
 
 <p align="center">
     <img src="https://img.shields.io/badge/-HTML5-000?&logo=HTML5" alt="HTML5"/>
