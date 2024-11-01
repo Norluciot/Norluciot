@@ -47,9 +47,9 @@
 ### 💡 About Me
 
 
-<p align="center">- 💻 Full-stack developer with a passion for open-source.</p>
-<p align="center">- 🚀 Enthusiastic about TypeScript, React, Node.js, and Nest.js.</p>
-<p align="center">- 🌱 Lifelong learner, always curious about new tech trends.</p>
+- 💻 Full-stack developer with a passion for open-source.
+- 🚀 Enthusiastic about TypeScript, React, Node.js, and Nest.js.
+- 🌱 Lifelong learner, always curious about new tech trends.
 
 ---
 <div align="center">
