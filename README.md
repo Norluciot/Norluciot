@@ -10,7 +10,7 @@
 
 ---
 
-<div align="left">
+<div align="center">
 
 ### 🌟 About Me
 
