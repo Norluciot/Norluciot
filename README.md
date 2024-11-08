@@ -1,4 +1,4 @@
-<div align="farany">
+<div align="center">
 
 # 🌌 Welcome, I'm FANOMEZANTSOA Adrien Norluciot! 👋
 
